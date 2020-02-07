@@ -1,0 +1,10 @@
+C:\Users\Administrateur\Desktop\projet fin d'etude\projet fin d'etude\AlloResto\AlloRestoWApp\AlloRestoWApp\bin\Debug\AlloRestoWApp.exe.config
+C:\Users\Administrateur\Desktop\projet fin d'etude\projet fin d'etude\AlloResto\AlloRestoWApp\AlloRestoWApp\bin\Debug\AlloRestoWApp.exe
+C:\Users\Administrateur\Desktop\projet fin d'etude\projet fin d'etude\AlloResto\AlloRestoWApp\AlloRestoWApp\bin\Debug\AlloRestoWApp.pdb
+C:\Users\Administrateur\Desktop\projet fin d'etude\projet fin d'etude\AlloResto\AlloRestoWApp\AlloRestoWApp\obj\Debug\AlloRestoWApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\projet fin d'etude\projet fin d'etude\AlloResto\AlloRestoWApp\AlloRestoWApp\obj\Debug\AlloRestoWApp.Form1.resources
+C:\Users\Administrateur\Desktop\projet fin d'etude\projet fin d'etude\AlloResto\AlloRestoWApp\AlloRestoWApp\obj\Debug\AlloRestoWApp.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\projet fin d'etude\projet fin d'etude\AlloResto\AlloRestoWApp\AlloRestoWApp\obj\Debug\AlloRestoWApp.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Desktop\projet fin d'etude\projet fin d'etude\AlloResto\AlloRestoWApp\AlloRestoWApp\obj\Debug\AlloRestoWApp.exe
+C:\Users\Administrateur\Desktop\projet fin d'etude\projet fin d'etude\AlloResto\AlloRestoWApp\AlloRestoWApp\obj\Debug\AlloRestoWApp.pdb
+C:\Users\Administrateur\Desktop\projet fin d'etude\projet fin d'etude\AlloResto\AlloRestoWApp\AlloRestoWApp\obj\Debug\AlloRestoWApp.Form2.resources
